@@ -1,1 +1,7 @@
-Day 1. - https://66e8411dda903709be418305--stirring-cucurucho-da4507.netlify.app/
+### Welcome to Project 50.
+
+50 projects in 50 Days. 
+
+
+- [01_Expanding Cards ](https://66e8411dda903709be418305--stirring-cucurucho-da4507.netlify.app/).
+- [02_Progress Steps ](https://66e982b9493db2051d40fbab--golden-cobbler-92cb68.netlify.app/).
