@@ -3,14 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
-    <title>boiler</title>
+    <title>rotating Navigation</title>
 </head>
 <body>
-    <p>Paragraph 1</p>
-    <p>Paragraph 2</p>
-    <p>Paragraph 3</p>
-    <div>Div 1</div>
-    <div>Div 2</div>  
+    <div class="container">
+        <div class="circle-container">
+            <div class="circle">
+                <button id="close">
+                    <i class="fas fa-times"></i>
+                </button>
+                <button id="open">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+        </div>
+        <div class="content">
+            <h1>Amazing Article</h1>
+            <small>wycliffe orao</small>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem quis quasi mollitia necessitatibus aut eius modi, officia, deleniti explicabo doloribus amet in hic recusandae ut deserunt exercitationem. Cum velit facilis, eaque nulla, placeat natus a debitis maxime alias neque earum dolore minima rem repellat ipsum adipisci doloremque, ducimus quae similique deserunt iusto! Nemo, ea, dolorum doloribus nam et non quis cupiditate iste, eveniet alias commodi. Asperiores quis quidem dolorem dolor voluptates non distinctio ratione necessitatibus omnis perferendis. Laborum facilis iste dicta nostrum. Deleniti necessitatibus aliquam, ad facilis ipsa dolorem quibusdam tempore fugit itaque laudantium? Laudantium repudiandae libero repellat eveniet nemo.</p>
+            <h3>my Dog</h3>
+            <img src="https://w0.peakpx.com/wallpaper/367/592/HD-wallpaper-rottweiler-big-black-dog-pets-green-grass-dog-on-the-grass-dogs.jpg" alt="my_dog">
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia distinctio aperiam eligendi nihil quibusdam, aliquam maiores dolorem a harum libero ab tempora sit porro excepturi aliquid ullam id repudiandae unde quis velit odit non laudantium. Rerum architecto eveniet delectus qui dolor dolorem voluptates, aspernatur, expedita ipsum repellat ut quae pariatur cupiditate ullam est! Nihil iure tempora sunt delectus soluta necessitatibus mollitia reiciendis culpa. Repudiandae odit quasi, facilis fuga ea beatae voluptatibus aut voluptates dolorum commodi.</p>
+        </div>
+    </div>
+    <nav>
+        <ul>
+            <li><i class="fas fa-home"> Home</i></li>
+            <li><i class="fas fa-user-alt"> About</i></li>
+            <li><i class="fas fa-envelope"> contact</i></li>
+        </ul>
+    </nav>
+    <script src="script.js"></script>
 </body>
 </html>
