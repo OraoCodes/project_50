@@ -9,7 +9,7 @@
 
 - [03_Rotating_navigation](https://66eb35901398369a573756e8--gorgeous-otter-9afe41.netlify.app/).
 
-[04_Hidden_Search_widget](https://66ec29a0be66f5ae99902c27--adorable-scone-f60443.netlify.app/).
+- [04_Hidden_Search_widget](https://66ec29a0be66f5ae99902c27--adorable-scone-f60443.netlify.app/).
 
-[05_Blurry Loading](https://66ed80b1d74c3a80c74476c1--boisterous-mousse-d57e95.netlify.app/).
+- [05_Blurry Loading](https://66ed80b1d74c3a80c74476c1--boisterous-mousse-d57e95.netlify.app/).
 
